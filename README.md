@@ -4,6 +4,9 @@ Descrição em Português do projeto:
 
 Linhas de código necessárias para o funcionamento do projeto:
 
+npm i
+npm start
+
 //react dependências:
 
 npm i react
